@@ -1,6 +1,6 @@
 # Hi, I'm Lorin 👋
 
-I enjoy building things and knowing how they work.
+I love building things and knowing how they work.
 
 ## A few things I've learned
 
